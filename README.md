@@ -1,4 +1,6 @@
-# rotf-mechanical
+# Restaurant of the Future(ROTF) 
+## Our Submission for the Prototype Building Phase of [HackOn with Amazon 2021](https://hackon-with-amazon.hackerearth.com/).
+## ROTF-mechanical
 <p align="center">
 <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/full_body.PNG" width="400" height="600">
 </p>
@@ -44,3 +46,9 @@ Attached at the bottom of the bot this will revolve around its central axis and 
 ## Video Explaination
 
 This is the [link](https://drive.google.com/file/d/1RxF6zCxJ6-5i-8JuhSSGZx6DGByoQ6nk/view?resourcekey) for video explaination of our product. Due to time constraint some parts of our are not shown in this video but can be seen in readme and CAD files
+
+### Presented by: Team ROTF, Indian Institute of Technology Roorkee.
+### Team Members:
+* Agrim Agarwal
+* Pradnesh Chavan
+* Vansh Goyal
