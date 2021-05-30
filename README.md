@@ -21,8 +21,8 @@ It is a three wheel omni drive that can easily move in any direction at a given 
 
 ## Plate Handling Mechanism - 
 <p float="center">
-  <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/Capture2.PNG" width="400" height="250" />
-  <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/Capture4.PNG" width="400" height="250" /> 
+  <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/PH1.PNG" width="400" height="250" />
+  <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/PH2.PNG" width="400" height="250" /> 
 </p>
 
 Our bot can store 3 food trays at a time. With our plate handling mechanism we can lift the plaltes from their position and place them on the table one by one. It consists of a rack and pinion mechanism for forward movement of the plate and a lead screw mechanism for upward and downward movement. It also contains spring tensed holders which can change their orientation when in need.
