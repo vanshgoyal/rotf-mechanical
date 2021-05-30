@@ -41,3 +41,6 @@ Our bot can segregate different kinds of waste using a ML model and we have cons
 
 Attached at the bottom of the bot this will revolve around its central axis and clean any dirt present on the floor while moving from one location to another.
 
+## Video Explaination
+
+This is the [link](https://drive.google.com/file/d/1RxF6zCxJ6-5i-8JuhSSGZx6DGByoQ6nk/view?resourcekey) for video explaination of our product. Due to time constraint some parts of our are not shown in this video but can be seen in readme and CAD files
