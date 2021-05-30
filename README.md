@@ -1,6 +1,6 @@
 # Restaurant of the Future(ROTF) 
 ## Our Submission for the Prototype Building Phase of [HackOn with Amazon 2021](https://hackon-with-amazon.hackerearth.com/).
-## ROTF-mechanical
+### Software Stack: AI & Robotics
 <p align="center">
 <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/full_body.PNG" width="400" height="600">
 </p>
