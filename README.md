@@ -21,7 +21,7 @@ It is a three wheel omni drive that can easily move in any direction at a given 
 
 ## Plate Handling Mechanism - 
 <p float="center">
-  <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/Capture2.PNG" width="500" height="300" />
+  <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/Capture2.PNG" width="450" height="300" />
   <img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/Capture4.PNG" width="400" height="300" /> 
 </p>
 
@@ -29,10 +29,15 @@ Our bot can store 3 food trays at a time. With our plate handling mechanism we c
 
 ## Vacuum Cleaning Mechanism
 <p align="center">
-<img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/vaccum.PNG" width="600" height="400">
+<img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/vaccum.PNG" width="700" height="400">
 </p>
 
 Our bot can segregate different kinds of waste using a ML model and we have constituted two vacuum systems to store the waste separately. Vaccum assembly consists of a fan box that will suck air from front and pass it at the back, along with dirt and waste collection box with a vacuum tube fitted at the front for waste collection.
 
 ## Dirt Cleaner
+<p align="center">
+<img src="https://github.com/vanshgoyal/rotf-mechanical/blob/main/Assets/Dirt%20Cleaner.PNG" width="400" height="400">
+</p>
+
+Attached at the bottom of the bot this will revolve around its central axis and clean any dirt present on the floor while moving from one location to another.
 
