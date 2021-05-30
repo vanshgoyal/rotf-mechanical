@@ -4,7 +4,7 @@
 </p>
 
 We have designed an autnomous restaurant service bot, which can perform various functions including handling of plates, waste cleaning and segregation, taking orders from costumers etc. 
-Our Bot has 3 main components-
+Our Bot has 4 main components-
 
       1. Omni Chassis
       2. Plate Handling Mechanism
